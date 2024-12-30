@@ -59,7 +59,7 @@ npm run start
 - Automatic logout for logged-in users.
 - Validation processes for sign-in and registration forms.
 - Ability for users to search for hotels without logging in.
-- Admin panel for adding, editing, and deleting hotels.
+- Admin panel for adding, editing, and deleting.
 
 ### Security Measures
 
